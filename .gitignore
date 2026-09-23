@@ -1,0 +1,14 @@
+/target/
+/.worktrees/
+.nightwatch-save.json
+.nightwatch-save.json.*.tmp
+*.log
+.env
+.env.*
+!.env.example
+
+# Local development material; not included in the public game repository.
+/docs/
+/tests/
+/examples/
+/REWRITE_BRIEF.md
